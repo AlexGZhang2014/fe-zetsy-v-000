@@ -52,6 +52,9 @@ p {
   border-color: rgb(204, 204, 204);
 }
 
+footer {
+  float: right;
+}
 
 
 
