@@ -47,7 +47,7 @@ p {
   color: rgb(85, 85, 85);
 }
 
-#press h2 a {
+#press > h2 > a {
   border: 5px solid #ccc;
   border-color: rgb(204, 204, 204);
 }
